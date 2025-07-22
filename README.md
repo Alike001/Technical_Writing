@@ -66,4 +66,4 @@ Writing a README file is an important first step for any software project. A REA
     - Use `markdown` or `pandoc` to convert `README.md` to other formats if needed.
     - GitHub and GitLab automatically render `README.md` files when they are in the root of a repository.
 
-Writing a comprehensive README file increases the accessibility and usability of your project, making it easier for others to understand and contribute to your work.
+
